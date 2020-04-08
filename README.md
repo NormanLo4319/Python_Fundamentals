@@ -22,7 +22,16 @@ Jupyter Notebook is a web-based IDE, so it starts the Notebook Dashboard by open
 Once you created a new Python notebook file, step 1, you can give a name to the notebook file by clicking "Untitled" and typing the file name.  Step 2, choose the coding type for the coding block. If you are writing Python code in a specific block, make sure "Code" is chosen in the drop down menu.  You can also choose "Markdown" if you are trying to create a markdown for this document.  Step 3, start coding in the coding block.  
 ![anaconda 5](/images/anaconda5.png)
 
-## Basic Coding Syntax
+## Lesson 1 - Basic Coding Syntax
+1.1 - Coding Structure
+1.2 - Comment between Codes
+1.3 - Assignment
+1.4 - Mathematical Operations
+1.5 - String
+1.6 - Number
+1.7 - None
+1.8 - Input
+1.9 - Basic Style Guide for Python Code
 
 ## Basic Data Structures
 
