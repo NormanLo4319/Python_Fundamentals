@@ -7,7 +7,8 @@ Before starting to write code in Python, we need to first setup the development 
 We can download Anaconda from the official web page, www.anaconda.com, by click on "Download".
 ![anaconda 1](/images/anaconda1.png)
 
-
+Choose the latest version Python 3.7 to complete downloading the installer.
+For Mac or Linus users, you can choose the cooresponding installer by clicking the "macOS" or "Linus" logo on the top of the page.
 ![anaconda 2](/images/anaconda2.png)
 
 ![anaconda 3](/images/anaconda3.png)
