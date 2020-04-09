@@ -34,6 +34,14 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 * 1.9 - Basic Style Guide for Python Code
 
 ## Basic Data Structures in Python
+* 2.1 - List
+* 2.2 - Index and Slice
+* 2.3 - Common Methods for List
+* 2.4 - List Sort
+* 2.5 - Other List Operations
+* 2.6 - Multi-Layer List and DeepCopy
+* 2.7 - Tuple
+* 2.8 - Set
 
 ## String Processing in Python
 
