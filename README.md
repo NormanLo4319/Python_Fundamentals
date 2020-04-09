@@ -1,5 +1,5 @@
 # Python Fundamentals
-In this repository, we try to explore the world of Python and learn how to become a "Pythonic" programmer.  We use ["Jupyter Notebook"](https://jupyter.org/) as our execution environment for this project.  
+In this repository, we try to explore the world of Python and learn how to become a "Pythonic" programmer.  We are using ["Jupyter Notebook"](https://jupyter.org/) as our execution environment in this project.  
 
 ## Installing Jupyter Notebook
 Before starting to write code in Python, we need to first setup the development environment, which include an interpreter, standard library, and other environment settings.  For people who want to use the official Python development environment, you can download it from Python official web page, www.python.org.  However, the IDLE (Integrated Developmnet and Learning Environment) provided by Python is not the most intuitive one to use for developers or programmers.  Here we adotp to a more complete standard platform called "Anaconda" and using "Jupyter Notebook" as our development environment.  Jupyter Notebook is an open-source web-based development environment for coding.  It supports over 40 programming languages, includes Python, R, Julia, and Scala.  
@@ -33,9 +33,9 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 * 1.8 - Input
 * 1.9 - Basic Style Guide for Python Code
 
-## Basic Data Structures
+## Basic Data Structures in Python
 
-## String Processing
+## String Processing in Python
 
 ## Dictionary
 
