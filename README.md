@@ -70,4 +70,4 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 * 5.3 - For Loop
 * 5.4 - Comprehension and Generator
 * 5.5 - Boolean Evaluation
-* 5.6 - A Simple Program to Evaluate a Word File
+* 5.6 - Simple Program to Evaluate a Word File
