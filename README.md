@@ -33,18 +33,41 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 * 1.8 - Input
 * 1.9 - Basic Style Guide for Python Code
 
-## Basic Data Structures in Python
+## Lesson 2 - Basic Data Structures in Python
 * 2.1 - List
 * 2.2 - Index and Slice
-* 2.3 - Common Methods for List
+* 2.3 - Methods of List Object
 * 2.4 - List Sort
 * 2.5 - Other List Operations
 * 2.6 - Multi-Layer List and DeepCopy
 * 2.7 - Tuple
 * 2.8 - Set
 
-## String Processing in Python
+## Lesson 3 - String Processing in Python
+* 3.1 - Sequence
+* 3.2 - Basic String Operations
+* 3.3 - Special String and Escape String
+* 3.4 - Methods of String Object
+* 3.5 - String Search
+* 3.6 - String Modification
+* 3.7 - Transforming Object into String
+* 3.8 - Formatting a String Object
+* 3.9 - f-strings
+* 3.10 - bytes Object
 
-## Dictionary
+## Lesson 4 - Dictionary
+* 4.1 - What is a Dictionary?
+* 4.2 - Methods of Dictionary Object
+* 4.3 - Word Counter
+* 4.4 - What object can be a "key"?
+* 4.5 - Sparse Matrix
+* 4.6 - Using Dictionary as Cache
+* 4.7 - Dictionary Efficiency
 
-## Control Flow Tools
+## Lesson 5 - Control Flow Tools
+* 5.1 - While Loop
+* 5.2 - if-elif-else Conditions
+* 5.3 - For Loop
+* 5.4 - Comprehension and Generator
+* 5.5 - Boolean Evaluation
+* 5.6 - A Simple Program to Evaluate a Word File
