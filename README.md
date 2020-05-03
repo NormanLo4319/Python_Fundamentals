@@ -46,7 +46,7 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 ## Lesson 3 - String Processing in Python
 * 3.1 - Sequence
 * 3.2 - Basic String Operations
-* 3.3 - Special String and Escape String
+* 3.3 - Escape Character & Escape Sequences
 * 3.4 - Methods of String Object
 * 3.5 - String Search
 * 3.6 - String Modification
