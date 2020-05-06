@@ -19,7 +19,7 @@ After installation, we can launch Anaconda Navigator from Window Start Menu.  Th
 Jupyter Notebook is a web-based IDE, so it starts the Notebook Dashboard by opening the default web browser, which will show a list of the notebooks, files, and subdirectories int he directory where the notebook server was started.  You should start a project by identifying the directory for the project. For instance, step 1, you can start a project directory on desktop, which will create a folder on your desktop.  Step 2, click on "New" drop down menue.  Step 3, create a new python notebook in that folder (or directory) by choosing "Python 3".
 ![anaconda 4](/images/anaconda4.png)
 
-Once you created a new Python notebook file, step 1, you can give a name to the notebook file by clicking "Untitled" and typing the file name.  Step 2, choose the coding type for the coding block. If you are writing Python code in a specific block, make sure "Code" is chosen in the drop down menu.  You can also choose "Markdown" if you are trying to create a markdown for this document.  Step 3, start coding in the coding block.  
+Once you created a new Python notebook file, step 1, you can give a name to the notebook file by clicking "Untitled" and replace with a new file name.  Step 2, choose the coding type for the coding block. If you are writing Python code in a specific block, make sure "Code" is chosen in the drop down menu.  You can also choose "Markdown" if you are trying to create a markdown in the document.  Step 3, start coding in the coding block.  
 ![anaconda 5](/images/anaconda5.png)
 
 ## Lesson 1 - Basic Coding Syntax and Structure in Python
