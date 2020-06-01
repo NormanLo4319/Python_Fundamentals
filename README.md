@@ -66,8 +66,8 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 
 ## Lesson 5 - Control Flow Tools
 * 5.1 - While Loop
-* 5.2 - if-elif-else Conditions
+* 5.2 - if-elif-else Condition Statements
 * 5.3 - For Loop
 * 5.4 - Comprehension and Generator
-* 5.5 - Boolean Evaluation
-* 5.6 - Simple Program to Evaluate a Text File
+* 5.5 - Boolean Test
+* 5.6 - Simple Program for Textual Analysis
