@@ -71,3 +71,5 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 * 5.4 - Comprehension and Generator
 * 5.5 - Boolean Test
 * 5.6 - Simple Program for Textual Analysis
+
+Copyright © 2020 Norman Lo
